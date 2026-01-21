@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is Marb0ss and I'm a Beginner Developer</h2>
+<h2 align="left">Hi 👋! My name is Marb0ss and I'm a Junior Developer</h2>
 
 ###
 
