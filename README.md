@@ -1,4 +1,4 @@
-### Hey there! <<img src="https://api.iconify.design/hugeicons:body-part-muscle.svg" alt="body-part-muscle" width="24" height="24" />
+### Hey there! <img src="https://api.iconify.design/icon-park:muscle.svg" alt="muscle" width="24" height="24" /><
 
                                                                           I'm Meyer!  
                                                               Junior Developer & Junior Vibecoder
