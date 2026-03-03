@@ -1,4 +1,4 @@
-* Hey there! 
+### Hey there! 
 
                                                                           I'm Meyer!  
                                                               Junior Developer & Junior Vibecoder
