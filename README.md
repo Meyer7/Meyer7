@@ -3,7 +3,10 @@
                                                                           I'm Meyer!  
                                                               Junior Developer & Junior Vibecoder
 <div display=flex width=100% height=50px justify-items=center>
-<img  align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=30px alt="Java"/>                                                <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=30px alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align=center width=50px alt="Java"/>                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align=center width=50px alt="C#"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg align=center width=50px alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg align=center width=50px alt="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg align=center width=50px alt="JavaScript" />   
 </div>
 I'm only starting to implement my knowledge into projects.
 
