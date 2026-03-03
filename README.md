@@ -5,6 +5,6 @@
 
 I'm only starting to implement my knowledge into projects.
 
-''*I design and build whatever I can build in my mind*''
+*I design and build whatever I can build in my mind*
 ---
-Currently my tech stack is C#, Java, Basic Frontend(HTML, CSS, JavaScript), some Python.
+Currently my tech stack is C#, Java<i class="devicon-java-plain colored"></i>, Basic Frontend(HTML, CSS, JavaScript), some Python?!?.
