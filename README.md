@@ -1,6 +1,6 @@
 ### Hey there! 💪<
 
-                                                               I'm Meyer!  
+                                                                I'm Meyer!  
                                                     Junior Developer & Junior Vibecoder
 <div display=flex width=100% height=50px justify-items=center align=center>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" align=center width=50px alt="Java"/>                                     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" align=center width=50px alt="C#"/>
