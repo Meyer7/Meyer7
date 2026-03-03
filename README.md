@@ -3,7 +3,7 @@
                                                                           I'm Meyer!  
                                                               Junior Developer & Junior Vibecoder
 
-<img  align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=30px alt="Java"/>                                                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=30px alt="C#" align=center/>"     
+<img  align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" width=30px alt="Java"/>                                                <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width=30px alt="C#"/>
 
 I'm only starting to implement my knowledge into projects.
 
